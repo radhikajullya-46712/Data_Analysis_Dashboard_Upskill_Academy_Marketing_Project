@@ -16,7 +16,7 @@ Understand payment behavior and product contribution
 Deliver actionable insights through an interactive dashboard
 
 ## 📂 Dataset Used
-https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project%202%20(1).csv
+- <a href="https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project%202%20(1).csv"> Dataset </a>
 
 ## Dataset Description
 The dataset contains transactional-level marketing and revenue data, including:
@@ -46,7 +46,7 @@ Profit,
 Month & Year for trend analysis,
 Validated numeric fields (revenue, cost, units).
 
-## Cleaned File https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project_Clean_radhika.xlsx
+## Cleaned File:  https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project_Clean_radhika.xlsx
 
 # Key KPIs & Business Questions
 KPIs Calculated:
