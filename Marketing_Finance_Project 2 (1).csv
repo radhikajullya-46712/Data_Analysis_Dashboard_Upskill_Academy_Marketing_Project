@@ -1,0 +1,61 @@
+OrderID,OrderDate,CustomerID,City,Age,Channel,Campaign,ProductCategory,Units,UnitPrice,DiscountPct,MarketingCost,COGS_per_unit,PaymentStatus,PaymentMethod
+1001,01-01-2025,5039,,21,Instagram Ads,Retargeting_Push,Digital Marketing Course,2,1999,0.2,1000,150,Pending,UPI
+1002,02-01-2025,5029,Pune,31,Instagram Ads,Brand_Awareness,Digital Marketing Course,1,1999,0,200,150,Refunded,UPI
+1003,03-01-2025,5015,Goa,31,Instagram Ads,New_Year_Blast,Workshop Pass,5,499,0,500,250,Paid,
+1004,04-01-2025,5043,Pune,29,Google Ads,Brand_Awareness,SAP Course,4,1999,0.2,200,400,Paid,UPI
+1005,05-01-2025,5008,Pune,31,Instagram Ads,Brand_Awareness,SAP Course,2,1999,0.15,200,600,Paid,Card
+1006,06-01-2025,5021,Goa,23,Referral,Retargeting_Push,E-book,1,1999,0.1,200,600,Refunded,NetBanking
+1007,07-01-2025,5039,Bangalore,19,Organic,Retargeting_Push,SAP Course,4,999,,,150,Refunded,
+1008,08-01-2025,5019,Pune,31,Instagram Ads,Diwali_Sale,SAP Course,5,1499,0,200,150,Paid,NetBanking
+1009,09-01-2025,5023,Pune,31,Google Ads,Diwali_Sale,SAP Course,4,799,0.15,1000,,Paid,UPI
+1010,10-01-2025,5011,Goa,21,Google Ads,New_Year_Blast,Data Analytics Course,1,999,0.1,500,600,Paid,UPI
+1011,11-01-2025,5011,Pune,21,Instagram Ads,Diwali_Sale,E-book,4,1999,0.15,500,150,Paid,UPI
+1012,12-01-2025,5024,Pune,25,Organic,Brand_Awareness,Digital Marketing Course,3,499,0.15,200,400,Paid,Card
+1013,13-01-2025,5036,Goa,27,Instagram Ads,Retargeting_Push,Workshop Pass,4,1999,0,750,400,Paid,Card
+1014,14-01-2025,5040,Goa,23,Google Ads,Diwali_Sale,Digital Marketing Course,2,1499,,750,150,Refunded,NetBanking
+1015,15-01-2025,5024,Belgaum,31,Facebook Ads,Diwali_Sale,E-book,2,1999,0.2,1000,150,Paid,UPI
+1016,16-01-2025,5003,Bangalore,,Referral,New_Year_Blast,Workshop Pass,3,499,0,200,600,Paid,
+1017,17-01-2025,5022,Bangalore,31,Google Ads,New_Year_Blast,E-book,1,1499,0.1,500,600,Pending,Card
+1018,18-01-2025,5002,Pune,19,Instagram Ads,Brand_Awareness,SAP Course,2,1999,0.1,,250,Refunded,
+1019,19-01-2025,5024,Bangalore,25,Referral,Retargeting_Push,Workshop Pass,5,1499,0.1,200,600,Refunded,Card
+1020,20-01-2025,5044,Pune,27,Instagram Ads,New_Year_Blast,SAP Course,2,799,0.1,750,400,Paid,UPI
+1021,21-01-2025,5030,Belgaum,33,Instagram Ads,Diwali_Sale,Digital Marketing Course,2,799,0.1,,400,Paid,NetBanking
+1022,22-01-2025,5038,Goa,25,Facebook Ads,Retargeting_Push,Digital Marketing Course,1,1999,0.15,500,150,Paid,UPI
+1023,23-01-2025,5002,Goa,29,Referral,Retargeting_Push,Workshop Pass,4,1499,0,350,600,Paid,UPI
+1024,24-01-2025,5021,Goa,27,Referral,Diwali_Sale,Workshop Pass,2,499,0.15,1000,250,Paid,Card
+1025,25-01-2025,5033,,31,Facebook Ads,New_Year_Blast,E-book,3,1999,0.2,1000,400,Paid,UPI
+1026,26-01-2025,5012,Belgaum,31,Google Ads,Diwali_Sale,E-book,4,799,0.1,500,400,Paid,UPI
+1027,27-01-2025,5022,Bangalore,27,Instagram Ads,Retargeting_Push,SAP Course,5,799,0,750,,Paid,Card
+1028,28-01-2025,5044,Bangalore,31,Organic,Referral_Bonus,Workshop Pass,1,1999,,200,250,Paid,NetBanking
+1029,29-01-2025,5025,Belgaum,23,Instagram Ads,Referral_Bonus,Digital Marketing Course,5,1499,0,750,400,Paid,NetBanking
+1030,30-01-2025,5049,Belgaum,27,Instagram Ads,Brand_Awareness,E-book,4,799,0.15,500,400,Paid,Card
+1031,31-01-2025,5027,Belgaum,25,Google Ads,Diwali_Sale,E-book,4,1499,0,1000,250,Paid,Card
+1032,01-02-2025,5042,Belgaum,27,Instagram Ads,Diwali_Sale,Digital Marketing Course,4,799,,,400,Paid,Card
+1033,02-02-2025,5028,Goa,33,Facebook Ads,Brand_Awareness,E-book,5,799,0.2,1000,150,Paid,Card
+1034,03-02-2025,5016,Hubli,31,Facebook Ads,Brand_Awareness,SAP Course,4,999,0,200,150,Paid,Card
+1035,04-02-2025,5015,,23,Referral,Brand_Awareness,Workshop Pass,5,799,0,1000,250,Paid,NetBanking
+1036,05-02-2025,5047,Belgaum,23,Organic,Retargeting_Push,Digital Marketing Course,4,499,0,1000,600,Paid,NetBanking
+1037,06-02-2025,5044,Hubli,,Instagram Ads,Diwali_Sale,Workshop Pass,3,1999,0,350,250,Paid,Card
+1038,07-02-2025,5003,Hubli,,Instagram Ads,Retargeting_Push,E-book,4,1999,0.2,350,250,Paid,UPI
+1039,08-02-2025,5037,Belgaum,21,Google Ads,Brand_Awareness,E-book,5,1499,0.1,350,600,Refunded,Card
+1040,09-02-2025,5007,,21,Facebook Ads,Diwali_Sale,Digital Marketing Course,2,799,0,1000,600,Paid,UPI
+1041,10-02-2025,5021,Bangalore,27,Organic,Retargeting_Push,SAP Course,4,499,0,500,600,Paid,Card
+1042,11-02-2025,5009,Pune,,Referral,Retargeting_Push,Data Analytics Course,2,1499,0.2,1000,150,Refunded,Card
+1043,12-02-2025,5039,Pune,19,Facebook Ads,Brand_Awareness,Digital Marketing Course,3,999,0.2,500,400,Paid,NetBanking
+1044,13-02-2025,5018,Belgaum,27,Referral,Diwali_Sale,Data Analytics Course,1,1499,0.15,500,150,Pending,
+1045,14-02-2025,5004,Goa,29,Google Ads,Brand_Awareness,Data Analytics Course,3,1499,0,350,,Paid,UPI
+1046,15-02-2025,5025,Belgaum,25,Google Ads,Diwali_Sale,SAP Course,4,799,0.15,750,150,Paid,NetBanking
+1047,16-02-2025,5014,Goa,25,Instagram Ads,Referral_Bonus,Data Analytics Course,2,999,0.2,200,400,Paid,NetBanking
+1048,17-02-2025,5009,Pune,25,Organic,New_Year_Blast,Data Analytics Course,2,1499,0.2,350,150,Pending,NetBanking
+1049,18-02-2025,5026,Belgaum,25,Referral,New_Year_Blast,SAP Course,5,499,0.1,350,600,Paid,NetBanking
+1050,19-02-2025,5002,Bangalore,25,Facebook Ads,New_Year_Blast,Data Analytics Course,2,499,0,750,250,Refunded,UPI
+1051,20-02-2025,5020,Hubli,29,Google Ads,Brand_Awareness,Data Analytics Course,5,1999,0.15,200,150,Paid,UPI
+1052,21-02-2025,5028,Goa,29,Instagram Ads,Referral_Bonus,Data Analytics Course,1,999,,,400,Pending,Card
+1053,22-02-2025,5047,,23,Instagram Ads,Diwali_Sale,Digital Marketing Course,4,999,0.2,1000,600,Paid,Card
+1054,23-02-2025,5007,Hubli,33,Referral,Retargeting_Push,Digital Marketing Course,5,1999,0.15,350,150,Pending,NetBanking
+1055,24-02-2025,5044,Belgaum,,Google Ads,Diwali_Sale,Digital Marketing Course,1,1499,0.1,200,150,Paid,NetBanking
+1056,25-02-2025,5008,Hubli,31,Organic,Retargeting_Push,SAP Course,2,999,0.2,350,,Paid,NetBanking
+1057,26-02-2025,5047,Bangalore,25,Google Ads,Diwali_Sale,E-book,2,499,0,500,150,Paid,Card
+1058,27-02-2025,5035,Hubli,19,Referral,Referral_Bonus,Data Analytics Course,1,499,0.2,350,250,Paid,Card
+1059,28-02-2025,5014,Belgaum,31,Referral,Retargeting_Push,Data Analytics Course,2,799,0,350,150,Paid,Card
+1060,01-03-2025,5017,Bangalore,29,Google Ads,Brand_Awareness,SAP Course,1,999,0.15,1000,,Paid,Card
