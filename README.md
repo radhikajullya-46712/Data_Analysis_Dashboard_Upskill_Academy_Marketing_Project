@@ -15,39 +15,44 @@ Deliver actionable insights through an interactive dashboard
 https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project%202%20(1).csv
 
 ##Dataset Description
-
 The dataset contains transactional-level marketing and revenue data, including:
-
 Order and revenue details
-
 Marketing cost and campaign mapping
-
 Channel and product category information
-
 City-level revenue data
-
 Payment method and payment status
 
-Key Columns (Example)
+#🧹 Data Cleaning & Preparation (Python)
+##Tools & Libraries
+pandas
+numpy
+matplotlib / seaborn (for EDA)
+Data Cleaning Steps
+Removed duplicate records
+Handled missing values in revenue, cost, and units
+Standardized column names and data types
+Converted date columns to proper datetime format
 
-Order ID
+##Created calculated fields:
+ROAS (Return on Ad Spend)
+Profit
+Month & Year for trend analysis
+Validated numeric fields (revenue, cost, units)
 
-Order Date
+##Cleaned File https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project_Clean_radhika.xlsx
 
-City
+#Key KPIs & Business Questions
+KPIs Calculated
+Total Marketing Cost: 32,700
+Total Net Revenue: 198,756
+Total Units Sold: 180
+Total Orders: 60
+ROAS: 6
 
-Channel (Instagram, Google Ads, Referral, Facebook Ads, Organic)
-
-Campaign Name
-
-Product Category
-
-Units Sold
-
-Net Revenue
-
-Marketing Cost
-
-Payment Method (UPI, Card, NetBanking)
-
-Payment Status (Paid, Pending, Refunded)
+#Business Questions Answered
+Which marketing channel generates the highest revenue?
+Which campaigns perform best?
+How does revenue trend over time?
+Which cities contribute most to revenue?
+What is the distribution of revenue by payment status?
+Which product categories are most profitable?
