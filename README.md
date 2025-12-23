@@ -46,7 +46,8 @@ Profit,
 Month & Year for trend analysis,
 Validated numeric fields (revenue, cost, units).
 
-## Cleaned File:  https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project_Clean_radhika.xlsx
+## Cleaned File: 
+- <a href="https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Marketing_Finance_Project_Clean_radhika.xlsx"> Cleaned Data</a>
 
 # Key KPIs & Business Questions
 KPIs Calculated:
@@ -87,8 +88,8 @@ Dashboard Design & Visualization
 Insight Generation & Business Interpretation
 
 # 📈 Dashboard Overview (Marketing View)
-## Image: https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Dashboard%20Image_marketing_view.png
-## Video: https://drive.google.com/file/d/1Xore9Fyx_5rOMHXMQE8QJWsnbghhF7Zd/view?usp=sharing
+ - <a href="https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Dashboard%20Image_marketing_view.png"> Dashboard Image</a>
+ - <a href="https://drive.google.com/file/d/1Xore9Fyx_5rOMHXMQE8QJWsnbghhF7Zd/view?usp=sharing"> Dashboard Video</a>
 
 # 💡 Key Insights
 
