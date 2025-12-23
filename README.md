@@ -67,6 +67,8 @@ Validated numeric fields (revenue, cost, units).
 # 📈 Dashboard Overview (Marketing View)
  - <a href="https://github.com/radhikajullya-46712/Data_Analysis_Dashboard_Upskill_Academy_Marketing_Project/blob/main/Dashboard%20Image_marketing_view.png"> Dashboard Image</a>
  - <a href="https://drive.google.com/file/d/1Xore9Fyx_5rOMHXMQE8QJWsnbghhF7Zd/view?usp=sharing"> Dashboard Video</a>
+ -<img width="1657" height="800" alt="Dashboard Image_marketing_view" src="https://github.com/user-attachments/assets/e56b30a2-c870-4451-b408-c7386f1a24e7" />
+
 
 # 💡 Key Insights
 -Instagram is the most effective revenue-driving channel
