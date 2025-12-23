@@ -50,6 +50,7 @@ Total Orders: 60
 ROAS: 6
 
 #Business Questions Answered
+
 Which marketing channel generates the highest revenue?
 Which campaigns perform best?
 How does revenue trend over time?
